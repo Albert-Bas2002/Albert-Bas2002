@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm Albert
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">   I'm a data scientist specializing in data analysis. I have expertise in statistical analysis, machine learning, and data visualization.  I stay updated with the latest advancements in the field and use programming languages like Python and R to develop predictive models and create interactive visualizations.</h3>
 
-
+<br>
 <h3 >You'll find me 👇</h3>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
