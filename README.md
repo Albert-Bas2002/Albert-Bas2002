@@ -6,7 +6,6 @@
 <h3 >You'll find me 👇</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-bas-6ab38127b/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/prst_bas/)
 
 <h3 align="center">Technology 🤖</h3>
 
