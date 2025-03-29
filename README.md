@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Albert
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">   I'm a data scientist specializing in data analysis. I have expertise in statistical analysis, machine learning, and data visualization.  I stay updated with the latest advancements in the field and use programming languages like Python and R to develop predictive models and create interactive visualizations.</h3>
+<h3 align="center">   I'm a data analyst specializing in data analysis. I have expertise in statistical analysis, machine learning, and data visualization.  I stay updated with the latest advancements in the field and use programming languages like Python and R to develop predictive models and create interactive visualizations.</h3>
 
 <br>
 <h3 >You'll find me 👇</h3>
